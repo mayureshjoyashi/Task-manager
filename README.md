@@ -20,7 +20,7 @@ Persistent storage for tasks using a local database
 
 ## Commands to run 
 
-Clone the repository
+# Clone the repository
 
 git clone https://github.com/yourusername/todo-list-flutter.git
 
@@ -29,7 +29,7 @@ cd todo-list-flutter
 
 
 
-Install Dependencies
+# Install Dependencies
 
 flutter pub get
 
@@ -37,7 +37,7 @@ flutter pub get
 
 
 
-Run the application
+# Run the application
 
 flutter run
 
