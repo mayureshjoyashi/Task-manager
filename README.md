@@ -2,7 +2,7 @@
 
 A simple and user-friendly TODO list application built using Flutter. This application allows users to add, edit, mark as complete, and delete tasks.
 
-## Getting Started
+## Installation
 
 This project is a starting point for a Flutter application.
 
