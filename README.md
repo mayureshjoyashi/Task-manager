@@ -5,9 +5,17 @@ A simple and user-friendly TODO list application built using Flutter. This appli
 # Features
 
 Add tasks to your TODO list.
+
+
 Edit existing tasks.
+
+
 Mark tasks as completed.
+
+
 Delete tasks.
+
+
 Persistent storage for tasks using a local database 
 
 ## Commands to run 
@@ -20,9 +28,12 @@ cd todo-list-flutter
 
 
 
+
 Install Dependencies
 
 flutter pub get
+
+
 
 
 
@@ -33,10 +44,3 @@ flutter run
 
 
 
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
