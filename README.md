@@ -41,6 +41,12 @@ flutter pub get
 
 flutter run
 
+## Testing on mobile phone
+
+![WhatsApp Image 2024-11-26 at 7 39 56 PM (1)](https://github.com/user-attachments/assets/3b54da6c-6616-4cee-9605-d11175893601)
+
+
+
 
 
 
