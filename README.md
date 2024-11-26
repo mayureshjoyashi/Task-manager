@@ -22,7 +22,7 @@ Persistent storage for tasks using a local database
 
 ## Clone the repository
 
-git clone https://github.com/yourusername/todo-list-flutter.git
+[git clone https://github.com/yourusername/todo-list-flutter.git](https://github.com/mayureshjoyashi/Task-manager.git)
 
 cd todo-list-flutter
 
